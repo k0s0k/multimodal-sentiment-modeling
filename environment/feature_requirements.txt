@@ -1,0 +1,9 @@
+torch==2.8.0
+torchaudio==2.8.0
+transformers==4.57.1
+av==16.1.0
+opensmile==2.6.0
+whisperx==3.7.4
+soundfile==0.14.0
+# Native dependencies: FFmpeg; OpenFace commit 3d4b5cf8d96138be42bed229447f36cbb09a5a29; dlib 19.24.6.
+# Independent alignment overlays: Qwen-ASR 0.0.6 / transformers 4.57.6; faster-whisper 1.2.1 / ctranslate2 4.6.0.

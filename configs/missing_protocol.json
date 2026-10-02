@@ -1,0 +1,25 @@
+{
+  "status": "frozen",
+  "original_protocol_sha256": "2e88602f80016e48a6f6abd660353c3bf1436ee6d1eb0ba03b8e4b1cc0b50183",
+  "allowed_checkpoint_sha256": [
+    "1ad09d2dc9ed47f2a2662dd0f4076fae14209fe4ee0054e3ad4d9769a6b343eb",
+    "e3f600d2f57a99f44ca366b4d1c5638898f6b647ec26434bf9731d8c6fc984c0",
+    "37ad97807b0819d4ffc5c173821e27e12c03b3720aa436f1be4464dbf6eae9a6"
+  ],
+  "allowed_predictors": [
+    {
+      "predictor_id": "structure_ensemble",
+      "weights": "equal",
+      "checkpoint_sha256": [
+        "1ad09d2dc9ed47f2a2662dd0f4076fae14209fe4ee0054e3ad4d9769a6b343eb",
+        "e3f600d2f57a99f44ca366b4d1c5638898f6b647ec26434bf9731d8c6fc984c0",
+        "37ad97807b0819d4ffc5c173821e27e12c03b3720aa436f1be4464dbf6eae9a6"
+      ]
+    }
+  ],
+  "allowed_cache_source_sha256": [
+    "6db7eb2d443cf737f703a6a31cdf8c70ca7ec2338f574a55cbd331344225edaf",
+    "ee92ef7a41416a8b095c987058fdc1425c36395f4b0d687b6f71d81fbebfe194"
+  ],
+  "numeric_profile": "FP32_BERT_FP16_storage_roundtrip_BF16_fusion_FP32_softmax_and_mean"
+}

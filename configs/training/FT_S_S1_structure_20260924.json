@@ -1,0 +1,40 @@
+{
+  "seed": 20260924,
+  "batch_size": 32,
+  "eval_batch_size": 64,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01,
+  "max_epochs": 20,
+  "earliest_stop_epoch": 5,
+  "patience": 5,
+  "class_weights": "inverse_sqrt",
+  "train_bank": "train-block",
+  "model": {
+    "family": "structure",
+    "hidden_dimension": 128,
+    "layers": 2,
+    "heads": 4,
+    "ffn_dimension": 256,
+    "dropout": 0.1,
+    "mpu_share": true,
+    "modality_share": true,
+    "layer_share": true
+  },
+  "loss": {
+    "lambda_regression": 1.0,
+    "smooth_l1_beta": 0.5,
+    "lambda_original_view": 0.5,
+    "lambda_kd": 0.1,
+    "kd_mode": "none",
+    "classification_kd_temperature": 2.0,
+    "lambda_reconstruction": 0.02,
+    "lambda_hlfr": 0.1,
+    "reconstruction_beta": 1.0,
+    "text_reconstruction_mode": "smooth_l1"
+  },
+  "run_id": "FT_S_S1_structure_20260924",
+  "method": "FT_S_S1_structure",
+  "finetune_parent": "S1_structure_20260924",
+  "bert_learning_rate": 1e-05,
+  "initialization_smoke": true
+}

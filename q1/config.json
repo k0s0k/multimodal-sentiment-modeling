@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "task": "Q1 frozen multimodal feature extraction and alignment",
+  "input_samples": 100,
+  "official_text_and_labels_unchanged": true,
+  "labels_used_for_extraction": false,
+  "seed": 20260923,
+  "features": {
+    "text": {
+      "model": "FacebookAI/roberta-large",
+      "revision": "722cf37b1afa9454edce342e7895e588b6ff1d59",
+      "dimension": 1024,
+      "layer": "last",
+      "tokens_per_window": 510,
+      "overlap_tokens": 64,
+      "pool": "exact original-character-overlap"
+    },
+    "audio": {
+      "model": "microsoft/wavlm-large",
+      "revision": "c1423ed94bb01d80a3f5ce5bc39f6026a0f4828c",
+      "dimension": 1024,
+      "hidden_layers": [
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "rate_hz": 16000,
+      "stride_samples": 320,
+      "local_conv_receptive_field_samples": 400
+    },
+    "acoustic": {
+      "tool": "openSMILE",
+      "version": "2.6.0",
+      "set": "eGeMAPSv02 LowLevelDescriptors",
+      "dimension": 25,
+      "grid_s": 0.1
+    },
+    "face": {
+      "tool": "OpenFace",
+      "revision": "3d4b5cf8d96138be42bed229447f36cbb09a5a29",
+      "dimension": 44,
+      "confidence_gate": 0.8,
+      "grid_s": 0.1,
+      "dlib": "19.24.6"
+    },
+    "video": {
+      "model": "MCG-NJU/videomae-base",
+      "revision": "dc740ceda42fce44faed2ea03c6d447db72f6af9",
+      "dimension": 768,
+      "sample_rate_hz": 10,
+      "frames_per_window": 16,
+      "window_hop_s": 0.4,
+      "batch_size": 2,
+      "input_size": 224,
+      "masking": false
+    }
+  },
+  "alignment": {
+    "ctc_model": "facebook/wav2vec2-base-960h",
+    "revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+    "explicit_blank_state": true,
+    "numeric_original_words_retained": true,
+    "min_observed_fraction": 0.95,
+    "min_label_argmax_fraction": 0.4,
+    "min_mean_label_logp": -5,
+    "min_candidate_margin_nats": 2,
+    "segment_gate": "see final_alignment_policy.md and final_alignment_summary.json",
+    "not_calibrated_probability": true
+  },
+  "audit_models": {
+    "qwen": {
+      "model": "Qwen/Qwen3-ForcedAligner-0.6B",
+      "revision": "c7cbfc2048c462b0d63a45797104fc9db3ad62b7",
+      "qwen_asr": "0.0.6",
+      "transformers": "4.57.6",
+      "purpose": "independent boundary diagnostic, not ground truth"
+    },
+    "whisper": {
+      "model": "Systran/faster-whisper-tiny",
+      "revision": "d90ca5fe260221311c53c58e660288d3deb8d356",
+      "faster_whisper": "1.2.1",
+      "ctranslate2": "4.6.0",
+      "device": "cpu",
+      "compute_type": "int8",
+      "beam_size": 5,
+      "temperature": 0,
+      "vad_filter": false,
+      "purpose": "language and correspondence diagnostic; official text never replaced"
+    }
+  },
+  "time": {
+    "unit": "seconds",
+    "origin": "shared presentation origin after container edit list",
+    "timestamp_dtype": "float64",
+    "feature_dtype": "float32",
+    "unknown_word_time": "null JSON / NaN pair text and audio NPZ / (-1,-1) pair video NPZ with valid=false and coverage=0",
+    "unassigned_min_s": 0.3,
+    "padding": "excluded from observed support; independent masks"
+  },
+  "hardware_used": {
+    "text_audio": "2 x RTX4090 24GB",
+    "acoustic_visual": "1 x RTX4090 48GB"
+  },
+  "supervised_diagnostic": {
+    "data": "official Q1 100 labels only",
+    "groups": "37 video_id groups, not verified speakers",
+    "folds": 5,
+    "seed": 20260923,
+    "bootstrap_groups": 37,
+    "bootstrap_repeats": 2000,
+    "not_Q2_training": true
+  }
+}

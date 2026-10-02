@@ -1,0 +1,885 @@
+{
+  "raw_text": "Replacing these wear components when replacing the timing belt is essential to ensuring the new belt performs to its mileage requirements",
+  "raw_text_sha256": "56d9daadbf8246d8e6bd904d99a5262f6d7b62720ac361d674a9adb4c16b2e9e",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 6419,
+      "attention": 1,
+      "token": "replacing",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 9,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 2122,
+      "attention": 1,
+      "token": "these",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 10,
+      "char_end": 15,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 4929,
+      "attention": 1,
+      "token": "wear",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 16,
+      "char_end": 20,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 6177,
+      "attention": 1,
+      "token": "components",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 21,
+      "char_end": 31,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 2043,
+      "attention": 1,
+      "token": "when",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 32,
+      "char_end": 36,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 6419,
+      "attention": 1,
+      "token": "replacing",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 37,
+      "char_end": 46,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 47,
+      "char_end": 50,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 10984,
+      "attention": 1,
+      "token": "timing",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 51,
+      "char_end": 57,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 5583,
+      "attention": 1,
+      "token": "belt",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 58,
+      "char_end": 62,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 2003,
+      "attention": 1,
+      "token": "is",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 63,
+      "char_end": 65,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 6827,
+      "attention": 1,
+      "token": "essential",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 66,
+      "char_end": 75,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 76,
+      "char_end": 78,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 12725,
+      "attention": 1,
+      "token": "ensuring",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 79,
+      "char_end": 87,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 88,
+      "char_end": 91,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 2047,
+      "attention": 1,
+      "token": "new",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 92,
+      "char_end": 95,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 5583,
+      "attention": 1,
+      "token": "belt",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 96,
+      "char_end": 100,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 10438,
+      "attention": 1,
+      "token": "performs",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 101,
+      "char_end": 109,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 110,
+      "char_end": 112,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 2049,
+      "attention": 1,
+      "token": "its",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 113,
+      "char_end": 116,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 3542,
+      "attention": 1,
+      "token": "mile",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 117,
+      "char_end": 121,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 4270,
+      "attention": 1,
+      "token": "##age",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 121,
+      "char_end": 124,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 5918,
+      "attention": 1,
+      "token": "requirements",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 125,
+      "char_end": 137,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 24,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 25,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 26,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 27,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 28,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 29,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 30,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 31,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 32,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 33,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 34,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 35,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 36,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 37,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 38,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 39,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 40,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 41,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 42,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 43,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "Replacing",
+      "char_start": 0,
+      "char_end": 9,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "these",
+      "char_start": 10,
+      "char_end": 15,
+      "token_positions": [
+        2
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "wear",
+      "char_start": 16,
+      "char_end": 20,
+      "token_positions": [
+        3
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "components",
+      "char_start": 21,
+      "char_end": 31,
+      "token_positions": [
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "when",
+      "char_start": 32,
+      "char_end": 36,
+      "token_positions": [
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "replacing",
+      "char_start": 37,
+      "char_end": 46,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "the",
+      "char_start": 47,
+      "char_end": 50,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "timing",
+      "char_start": 51,
+      "char_end": 57,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "belt",
+      "char_start": 58,
+      "char_end": 62,
+      "token_positions": [
+        9
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "is",
+      "char_start": 63,
+      "char_end": 65,
+      "token_positions": [
+        10
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "essential",
+      "char_start": 66,
+      "char_end": 75,
+      "token_positions": [
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "to",
+      "char_start": 76,
+      "char_end": 78,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "ensuring",
+      "char_start": 79,
+      "char_end": 87,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "the",
+      "char_start": 88,
+      "char_end": 91,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "new",
+      "char_start": 92,
+      "char_end": 95,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "belt",
+      "char_start": 96,
+      "char_end": 100,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "performs",
+      "char_start": 101,
+      "char_end": 109,
+      "token_positions": [
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "to",
+      "char_start": 110,
+      "char_end": 112,
+      "token_positions": [
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "its",
+      "char_start": 113,
+      "char_end": 116,
+      "token_positions": [
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "mileage",
+      "char_start": 117,
+      "char_end": 124,
+      "token_positions": [
+        20,
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "requirements",
+      "char_start": 125,
+      "char_end": 137,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 22,
+  "mapped_content_positions": 22,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "01",
+  "sample_key": "sample_01",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "5a08410ee779863238edcf349556a2f8e10490a70e02fc95001a64f6c8d17452",
+  "source_video_sha256": "3057e24aee7a48fcf15bd618b663bd7f0d061fb8893286c458986a7e1c6d17cf"
+}

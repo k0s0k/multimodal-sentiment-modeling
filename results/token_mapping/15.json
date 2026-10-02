@@ -1,0 +1,848 @@
+{
+  "raw_text": "However, despite their poverty, the family prioritize education because they believed in its power to transform lives",
+  "raw_text_sha256": "4a2673cdf6dcb5a06bc5485a7369e1d00d21cdb86ebd183a6040f28a812ab1d4",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 2174,
+      "attention": 1,
+      "token": "however",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 7,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 7,
+      "char_end": 8,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 2750,
+      "attention": 1,
+      "token": "despite",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 9,
+      "char_end": 16,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 2037,
+      "attention": 1,
+      "token": "their",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 17,
+      "char_end": 22,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 5635,
+      "attention": 1,
+      "token": "poverty",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 23,
+      "char_end": 30,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 30,
+      "char_end": 31,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 32,
+      "char_end": 35,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 2155,
+      "attention": 1,
+      "token": "family",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 36,
+      "char_end": 42,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 3188,
+      "attention": 1,
+      "token": "prior",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 43,
+      "char_end": 48,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 25090,
+      "attention": 1,
+      "token": "##iti",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 48,
+      "char_end": 51,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 4371,
+      "attention": 1,
+      "token": "##ze",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 51,
+      "char_end": 53,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 2495,
+      "attention": 1,
+      "token": "education",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 54,
+      "char_end": 63,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 2138,
+      "attention": 1,
+      "token": "because",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 64,
+      "char_end": 71,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 2027,
+      "attention": 1,
+      "token": "they",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 72,
+      "char_end": 76,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 3373,
+      "attention": 1,
+      "token": "believed",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 77,
+      "char_end": 85,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 1999,
+      "attention": 1,
+      "token": "in",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 86,
+      "char_end": 88,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 2049,
+      "attention": 1,
+      "token": "its",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 89,
+      "char_end": 92,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 2373,
+      "attention": 1,
+      "token": "power",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 93,
+      "char_end": 98,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 99,
+      "char_end": 101,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 10938,
+      "attention": 1,
+      "token": "transform",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 102,
+      "char_end": 111,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 3268,
+      "attention": 1,
+      "token": "lives",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 112,
+      "char_end": 117,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 23,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 24,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 25,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 26,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 27,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 28,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 29,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 30,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 31,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 32,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 33,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 34,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 35,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 36,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 37,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 38,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 39,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 40,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 41,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 42,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 43,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "However,",
+      "char_start": 0,
+      "char_end": 8,
+      "token_positions": [
+        1,
+        2
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "despite",
+      "char_start": 9,
+      "char_end": 16,
+      "token_positions": [
+        3
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "their",
+      "char_start": 17,
+      "char_end": 22,
+      "token_positions": [
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "poverty,",
+      "char_start": 23,
+      "char_end": 31,
+      "token_positions": [
+        5,
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "the",
+      "char_start": 32,
+      "char_end": 35,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "family",
+      "char_start": 36,
+      "char_end": 42,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "prioritize",
+      "char_start": 43,
+      "char_end": 53,
+      "token_positions": [
+        9,
+        10,
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "education",
+      "char_start": 54,
+      "char_end": 63,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "because",
+      "char_start": 64,
+      "char_end": 71,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "they",
+      "char_start": 72,
+      "char_end": 76,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "believed",
+      "char_start": 77,
+      "char_end": 85,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "in",
+      "char_start": 86,
+      "char_end": 88,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "its",
+      "char_start": 89,
+      "char_end": 92,
+      "token_positions": [
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "power",
+      "char_start": 93,
+      "char_end": 98,
+      "token_positions": [
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "to",
+      "char_start": 99,
+      "char_end": 101,
+      "token_positions": [
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "transform",
+      "char_start": 102,
+      "char_end": 111,
+      "token_positions": [
+        20
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "lives",
+      "char_start": 112,
+      "char_end": 117,
+      "token_positions": [
+        21
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 21,
+  "mapped_content_positions": 21,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "15",
+  "sample_key": "sample_15",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "1fd8521f61b769038a991088f11a9693e0ad9f05ad92f9924d502cc147a7cd1f",
+  "source_video_sha256": "bdd4ea47f2dac729a445cdf34009b9dff6d66bdc8ca997b82814bd55dc7fc675"
+}

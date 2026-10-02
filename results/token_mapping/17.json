@@ -1,0 +1,896 @@
+{
+  "raw_text": "Applying these four design concepts to your presentations is simple, easy and will make people think you turned into a design guru.",
+  "raw_text_sha256": "08f59d0a514e75a914a3c4ddf7d19d249b4da426c6b8a68855fecf859f4f7607",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 11243,
+      "attention": 1,
+      "token": "applying",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 8,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 2122,
+      "attention": 1,
+      "token": "these",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 9,
+      "char_end": 14,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 2176,
+      "attention": 1,
+      "token": "four",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 15,
+      "char_end": 19,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 2640,
+      "attention": 1,
+      "token": "design",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 20,
+      "char_end": 26,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 8474,
+      "attention": 1,
+      "token": "concepts",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 27,
+      "char_end": 35,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 36,
+      "char_end": 38,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 2115,
+      "attention": 1,
+      "token": "your",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 39,
+      "char_end": 43,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 18216,
+      "attention": 1,
+      "token": "presentations",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 44,
+      "char_end": 57,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 2003,
+      "attention": 1,
+      "token": "is",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 58,
+      "char_end": 60,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 3722,
+      "attention": 1,
+      "token": "simple",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 61,
+      "char_end": 67,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 67,
+      "char_end": 68,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 3733,
+      "attention": 1,
+      "token": "easy",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 69,
+      "char_end": 73,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 74,
+      "char_end": 77,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 2097,
+      "attention": 1,
+      "token": "will",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 78,
+      "char_end": 82,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 2191,
+      "attention": 1,
+      "token": "make",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 83,
+      "char_end": 87,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 2111,
+      "attention": 1,
+      "token": "people",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 88,
+      "char_end": 94,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 2228,
+      "attention": 1,
+      "token": "think",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 95,
+      "char_end": 100,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 2017,
+      "attention": 1,
+      "token": "you",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 101,
+      "char_end": 104,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 2357,
+      "attention": 1,
+      "token": "turned",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 105,
+      "char_end": 111,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 2046,
+      "attention": 1,
+      "token": "into",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 112,
+      "char_end": 116,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 1037,
+      "attention": 1,
+      "token": "a",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 117,
+      "char_end": 118,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 2640,
+      "attention": 1,
+      "token": "design",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 119,
+      "char_end": 125,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 11972,
+      "attention": 1,
+      "token": "guru",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 126,
+      "char_end": 130,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 1012,
+      "attention": 1,
+      "token": ".",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 130,
+      "char_end": 131,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 26,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 27,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 28,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 29,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 30,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 31,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 32,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 33,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 34,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 35,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 36,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 37,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 38,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 39,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 40,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 41,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 42,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 43,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "Applying",
+      "char_start": 0,
+      "char_end": 8,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "these",
+      "char_start": 9,
+      "char_end": 14,
+      "token_positions": [
+        2
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "four",
+      "char_start": 15,
+      "char_end": 19,
+      "token_positions": [
+        3
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "design",
+      "char_start": 20,
+      "char_end": 26,
+      "token_positions": [
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "concepts",
+      "char_start": 27,
+      "char_end": 35,
+      "token_positions": [
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "to",
+      "char_start": 36,
+      "char_end": 38,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "your",
+      "char_start": 39,
+      "char_end": 43,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "presentations",
+      "char_start": 44,
+      "char_end": 57,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "is",
+      "char_start": 58,
+      "char_end": 60,
+      "token_positions": [
+        9
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "simple,",
+      "char_start": 61,
+      "char_end": 68,
+      "token_positions": [
+        10,
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "easy",
+      "char_start": 69,
+      "char_end": 73,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "and",
+      "char_start": 74,
+      "char_end": 77,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "will",
+      "char_start": 78,
+      "char_end": 82,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "make",
+      "char_start": 83,
+      "char_end": 87,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "people",
+      "char_start": 88,
+      "char_end": 94,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "think",
+      "char_start": 95,
+      "char_end": 100,
+      "token_positions": [
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "you",
+      "char_start": 101,
+      "char_end": 104,
+      "token_positions": [
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "turned",
+      "char_start": 105,
+      "char_end": 111,
+      "token_positions": [
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "into",
+      "char_start": 112,
+      "char_end": 116,
+      "token_positions": [
+        20
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "a",
+      "char_start": 117,
+      "char_end": 118,
+      "token_positions": [
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "design",
+      "char_start": 119,
+      "char_end": 125,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "guru.",
+      "char_start": 126,
+      "char_end": 131,
+      "token_positions": [
+        23,
+        24
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 24,
+  "mapped_content_positions": 24,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "17",
+  "sample_key": "sample_17",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "7b841ea3fdea42ef7d0ba607d90ea61a86a44066eb4ee3d1a70e8180a7b47796",
+  "source_video_sha256": "8a2f9bad44684ae0ba22f4ad39e848020dbac6acf7e5fe9d974f2448e6902462"
+}

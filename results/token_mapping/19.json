@@ -1,0 +1,1010 @@
+{
+  "raw_text": "People are surprisingly forgiving brands when they own up to mistakes, and unfortunately some haters out there love to point fingers and jump all over imperfections, but for the most part, people understand",
+  "raw_text_sha256": "6f6bddc9911380a92898edbaf9a1dce3dcce983f6ae53c938f1dffd16de4754b",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 2111,
+      "attention": 1,
+      "token": "people",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 6,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 2024,
+      "attention": 1,
+      "token": "are",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 7,
+      "char_end": 10,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 10889,
+      "attention": 1,
+      "token": "surprisingly",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 11,
+      "char_end": 23,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 2005,
+      "attention": 1,
+      "token": "for",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 24,
+      "char_end": 27,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 23795,
+      "attention": 1,
+      "token": "##giving",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 27,
+      "char_end": 33,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 9639,
+      "attention": 1,
+      "token": "brands",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 34,
+      "char_end": 40,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 2043,
+      "attention": 1,
+      "token": "when",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 41,
+      "char_end": 45,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 2027,
+      "attention": 1,
+      "token": "they",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 46,
+      "char_end": 50,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 2219,
+      "attention": 1,
+      "token": "own",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 51,
+      "char_end": 54,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 2039,
+      "attention": 1,
+      "token": "up",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 55,
+      "char_end": 57,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 58,
+      "char_end": 60,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 12051,
+      "attention": 1,
+      "token": "mistakes",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 61,
+      "char_end": 69,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 69,
+      "char_end": 70,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 71,
+      "char_end": 74,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 6854,
+      "attention": 1,
+      "token": "unfortunately",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 75,
+      "char_end": 88,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 2070,
+      "attention": 1,
+      "token": "some",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 89,
+      "char_end": 93,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 5223,
+      "attention": 1,
+      "token": "hate",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 94,
+      "char_end": 98,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 2869,
+      "attention": 1,
+      "token": "##rs",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 98,
+      "char_end": 100,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 2041,
+      "attention": 1,
+      "token": "out",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 101,
+      "char_end": 104,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 2045,
+      "attention": 1,
+      "token": "there",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 105,
+      "char_end": 110,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 2293,
+      "attention": 1,
+      "token": "love",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 111,
+      "char_end": 115,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 116,
+      "char_end": 118,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 2391,
+      "attention": 1,
+      "token": "point",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 119,
+      "char_end": 124,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 3093,
+      "attention": 1,
+      "token": "fingers",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 125,
+      "char_end": 132,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 133,
+      "char_end": 136,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 26,
+      "token_id": 5376,
+      "attention": 1,
+      "token": "jump",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 137,
+      "char_end": 141,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 27,
+      "token_id": 2035,
+      "attention": 1,
+      "token": "all",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 142,
+      "char_end": 145,
+      "word_id": 23,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 28,
+      "token_id": 2058,
+      "attention": 1,
+      "token": "over",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 146,
+      "char_end": 150,
+      "word_id": 24,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 29,
+      "token_id": 29238,
+      "attention": 1,
+      "token": "imperfect",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 151,
+      "char_end": 160,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 30,
+      "token_id": 8496,
+      "attention": 1,
+      "token": "##ions",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 160,
+      "char_end": 164,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 31,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 164,
+      "char_end": 165,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 32,
+      "token_id": 2021,
+      "attention": 1,
+      "token": "but",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 166,
+      "char_end": 169,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 33,
+      "token_id": 2005,
+      "attention": 1,
+      "token": "for",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 170,
+      "char_end": 173,
+      "word_id": 27,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 34,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 174,
+      "char_end": 177,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 35,
+      "token_id": 2087,
+      "attention": 1,
+      "token": "most",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 178,
+      "char_end": 182,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 36,
+      "token_id": 2112,
+      "attention": 1,
+      "token": "part",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 183,
+      "char_end": 187,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 37,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 187,
+      "char_end": 188,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 38,
+      "token_id": 2111,
+      "attention": 1,
+      "token": "people",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 189,
+      "char_end": 195,
+      "word_id": 31,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 39,
+      "token_id": 3305,
+      "attention": 1,
+      "token": "understand",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 196,
+      "char_end": 206,
+      "word_id": 32,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 40,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 41,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 42,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 43,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "People",
+      "char_start": 0,
+      "char_end": 6,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "are",
+      "char_start": 7,
+      "char_end": 10,
+      "token_positions": [
+        2
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "surprisingly",
+      "char_start": 11,
+      "char_end": 23,
+      "token_positions": [
+        3
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "forgiving",
+      "char_start": 24,
+      "char_end": 33,
+      "token_positions": [
+        4,
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "brands",
+      "char_start": 34,
+      "char_end": 40,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "when",
+      "char_start": 41,
+      "char_end": 45,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "they",
+      "char_start": 46,
+      "char_end": 50,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "own",
+      "char_start": 51,
+      "char_end": 54,
+      "token_positions": [
+        9
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "up",
+      "char_start": 55,
+      "char_end": 57,
+      "token_positions": [
+        10
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "to",
+      "char_start": 58,
+      "char_end": 60,
+      "token_positions": [
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "mistakes,",
+      "char_start": 61,
+      "char_end": 70,
+      "token_positions": [
+        12,
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "and",
+      "char_start": 71,
+      "char_end": 74,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "unfortunately",
+      "char_start": 75,
+      "char_end": 88,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "some",
+      "char_start": 89,
+      "char_end": 93,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "haters",
+      "char_start": 94,
+      "char_end": 100,
+      "token_positions": [
+        17,
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "out",
+      "char_start": 101,
+      "char_end": 104,
+      "token_positions": [
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "there",
+      "char_start": 105,
+      "char_end": 110,
+      "token_positions": [
+        20
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "love",
+      "char_start": 111,
+      "char_end": 115,
+      "token_positions": [
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "to",
+      "char_start": 116,
+      "char_end": 118,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "point",
+      "char_start": 119,
+      "char_end": 124,
+      "token_positions": [
+        23
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "fingers",
+      "char_start": 125,
+      "char_end": 132,
+      "token_positions": [
+        24
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "and",
+      "char_start": 133,
+      "char_end": 136,
+      "token_positions": [
+        25
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 22,
+      "text": "jump",
+      "char_start": 137,
+      "char_end": 141,
+      "token_positions": [
+        26
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 23,
+      "text": "all",
+      "char_start": 142,
+      "char_end": 145,
+      "token_positions": [
+        27
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 24,
+      "text": "over",
+      "char_start": 146,
+      "char_end": 150,
+      "token_positions": [
+        28
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 25,
+      "text": "imperfections,",
+      "char_start": 151,
+      "char_end": 165,
+      "token_positions": [
+        29,
+        30,
+        31
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 26,
+      "text": "but",
+      "char_start": 166,
+      "char_end": 169,
+      "token_positions": [
+        32
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 27,
+      "text": "for",
+      "char_start": 170,
+      "char_end": 173,
+      "token_positions": [
+        33
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 28,
+      "text": "the",
+      "char_start": 174,
+      "char_end": 177,
+      "token_positions": [
+        34
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 29,
+      "text": "most",
+      "char_start": 178,
+      "char_end": 182,
+      "token_positions": [
+        35
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 30,
+      "text": "part,",
+      "char_start": 183,
+      "char_end": 188,
+      "token_positions": [
+        36,
+        37
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 31,
+      "text": "people",
+      "char_start": 189,
+      "char_end": 195,
+      "token_positions": [
+        38
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 32,
+      "text": "understand",
+      "char_start": 196,
+      "char_end": 206,
+      "token_positions": [
+        39
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 39,
+  "mapped_content_positions": 39,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "19",
+  "sample_key": "sample_19",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "ef099682c44a9e6ba5135a74d4babf12a91ba5ee2895b32d191679244dd1c221",
+  "source_video_sha256": "26148d75d5b4c1ff6f69a36485cc02a771a74203d2c07d9d08f018bf88658217"
+}

@@ -1,0 +1,929 @@
+{
+  "raw_text": "(umm) And you know I really do like to see fluffy chick flicks sometimes so I'm not against that but this one was pretty terrible",
+  "raw_text_sha256": "c344a9473d3b0fcf85d4e9b1eec348968534715f02b0c3922440650c1fb5494a",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 1006,
+      "attention": 1,
+      "token": "(",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 1,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 26114,
+      "attention": 1,
+      "token": "umm",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 1,
+      "char_end": 4,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 1007,
+      "attention": 1,
+      "token": ")",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 4,
+      "char_end": 5,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 6,
+      "char_end": 9,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 2017,
+      "attention": 1,
+      "token": "you",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 10,
+      "char_end": 13,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 2113,
+      "attention": 1,
+      "token": "know",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 14,
+      "char_end": 18,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 1045,
+      "attention": 1,
+      "token": "i",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 19,
+      "char_end": 20,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 2428,
+      "attention": 1,
+      "token": "really",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 21,
+      "char_end": 27,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 2079,
+      "attention": 1,
+      "token": "do",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 28,
+      "char_end": 30,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 2066,
+      "attention": 1,
+      "token": "like",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 31,
+      "char_end": 35,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 36,
+      "char_end": 38,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 2156,
+      "attention": 1,
+      "token": "see",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 39,
+      "char_end": 42,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 27036,
+      "attention": 1,
+      "token": "fluffy",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 43,
+      "char_end": 49,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 14556,
+      "attention": 1,
+      "token": "chick",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 50,
+      "char_end": 55,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 17312,
+      "attention": 1,
+      "token": "flick",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 56,
+      "char_end": 61,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 2015,
+      "attention": 1,
+      "token": "##s",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 61,
+      "char_end": 62,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 2823,
+      "attention": 1,
+      "token": "sometimes",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 63,
+      "char_end": 72,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 2061,
+      "attention": 1,
+      "token": "so",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 73,
+      "char_end": 75,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 1045,
+      "attention": 1,
+      "token": "i",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 76,
+      "char_end": 77,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 1005,
+      "attention": 1,
+      "token": "'",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 77,
+      "char_end": 78,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 1049,
+      "attention": 1,
+      "token": "m",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 78,
+      "char_end": 79,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 2025,
+      "attention": 1,
+      "token": "not",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 80,
+      "char_end": 83,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 2114,
+      "attention": 1,
+      "token": "against",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 84,
+      "char_end": 91,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 2008,
+      "attention": 1,
+      "token": "that",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 92,
+      "char_end": 96,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 2021,
+      "attention": 1,
+      "token": "but",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 97,
+      "char_end": 100,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 26,
+      "token_id": 2023,
+      "attention": 1,
+      "token": "this",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 101,
+      "char_end": 105,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 27,
+      "token_id": 2028,
+      "attention": 1,
+      "token": "one",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 106,
+      "char_end": 109,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 28,
+      "token_id": 2001,
+      "attention": 1,
+      "token": "was",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 110,
+      "char_end": 113,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 29,
+      "token_id": 3492,
+      "attention": 1,
+      "token": "pretty",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 114,
+      "char_end": 120,
+      "word_id": 23,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 30,
+      "token_id": 6659,
+      "attention": 1,
+      "token": "terrible",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 121,
+      "char_end": 129,
+      "word_id": 24,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 31,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 32,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 33,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 34,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 35,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 36,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 37,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 38,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 39,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 40,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 41,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 42,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 43,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "(umm)",
+      "char_start": 0,
+      "char_end": 5,
+      "token_positions": [
+        1,
+        2,
+        3
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "And",
+      "char_start": 6,
+      "char_end": 9,
+      "token_positions": [
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "you",
+      "char_start": 10,
+      "char_end": 13,
+      "token_positions": [
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "know",
+      "char_start": 14,
+      "char_end": 18,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "I",
+      "char_start": 19,
+      "char_end": 20,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "really",
+      "char_start": 21,
+      "char_end": 27,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "do",
+      "char_start": 28,
+      "char_end": 30,
+      "token_positions": [
+        9
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "like",
+      "char_start": 31,
+      "char_end": 35,
+      "token_positions": [
+        10
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "to",
+      "char_start": 36,
+      "char_end": 38,
+      "token_positions": [
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "see",
+      "char_start": 39,
+      "char_end": 42,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "fluffy",
+      "char_start": 43,
+      "char_end": 49,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "chick",
+      "char_start": 50,
+      "char_end": 55,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "flicks",
+      "char_start": 56,
+      "char_end": 62,
+      "token_positions": [
+        15,
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "sometimes",
+      "char_start": 63,
+      "char_end": 72,
+      "token_positions": [
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "so",
+      "char_start": 73,
+      "char_end": 75,
+      "token_positions": [
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "I'm",
+      "char_start": 76,
+      "char_end": 79,
+      "token_positions": [
+        19,
+        20,
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "not",
+      "char_start": 80,
+      "char_end": 83,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "against",
+      "char_start": 84,
+      "char_end": 91,
+      "token_positions": [
+        23
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "that",
+      "char_start": 92,
+      "char_end": 96,
+      "token_positions": [
+        24
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "but",
+      "char_start": 97,
+      "char_end": 100,
+      "token_positions": [
+        25
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "this",
+      "char_start": 101,
+      "char_end": 105,
+      "token_positions": [
+        26
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "one",
+      "char_start": 106,
+      "char_end": 109,
+      "token_positions": [
+        27
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 22,
+      "text": "was",
+      "char_start": 110,
+      "char_end": 113,
+      "token_positions": [
+        28
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 23,
+      "text": "pretty",
+      "char_start": 114,
+      "char_end": 120,
+      "token_positions": [
+        29
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 24,
+      "text": "terrible",
+      "char_start": 121,
+      "char_end": 129,
+      "token_positions": [
+        30
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 30,
+  "mapped_content_positions": 30,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "10",
+  "sample_key": "sample_10",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "693326817b8253fc907a3c1df1b05dd1f10c7bc756a86ce125bb903b01eaf571",
+  "source_video_sha256": "21047991667edfdde0cb848dfd80aa41ccb871bc02742bd24f28d512a70f53db"
+}

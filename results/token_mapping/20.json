@@ -1,0 +1,1023 @@
+{
+  "raw_text": "And of course, click in the link of the description of this video for more, and we'll have more live updates and a stock market video (wrap-up) at the end of the day today.",
+  "raw_text_sha256": "57760975e46e452dbb488752e013f6c181846158c10e4b3624b71ea63a45c876",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 3,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 4,
+      "char_end": 6,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 2607,
+      "attention": 1,
+      "token": "course",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 7,
+      "char_end": 13,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 13,
+      "char_end": 14,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 11562,
+      "attention": 1,
+      "token": "click",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 15,
+      "char_end": 20,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 1999,
+      "attention": 1,
+      "token": "in",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 21,
+      "char_end": 23,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 24,
+      "char_end": 27,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 4957,
+      "attention": 1,
+      "token": "link",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 28,
+      "char_end": 32,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 33,
+      "char_end": 35,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 36,
+      "char_end": 39,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 6412,
+      "attention": 1,
+      "token": "description",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 40,
+      "char_end": 51,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 52,
+      "char_end": 54,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 2023,
+      "attention": 1,
+      "token": "this",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 55,
+      "char_end": 59,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 2678,
+      "attention": 1,
+      "token": "video",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 60,
+      "char_end": 65,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 2005,
+      "attention": 1,
+      "token": "for",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 66,
+      "char_end": 69,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 2062,
+      "attention": 1,
+      "token": "more",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 70,
+      "char_end": 74,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 74,
+      "char_end": 75,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 76,
+      "char_end": 79,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 2057,
+      "attention": 1,
+      "token": "we",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 80,
+      "char_end": 82,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 1005,
+      "attention": 1,
+      "token": "'",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 82,
+      "char_end": 83,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 2222,
+      "attention": 1,
+      "token": "ll",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 83,
+      "char_end": 85,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 2031,
+      "attention": 1,
+      "token": "have",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 86,
+      "char_end": 90,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 2062,
+      "attention": 1,
+      "token": "more",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 91,
+      "char_end": 95,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 2444,
+      "attention": 1,
+      "token": "live",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 96,
+      "char_end": 100,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 14409,
+      "attention": 1,
+      "token": "updates",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 101,
+      "char_end": 108,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 26,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 109,
+      "char_end": 112,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 27,
+      "token_id": 1037,
+      "attention": 1,
+      "token": "a",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 113,
+      "char_end": 114,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 28,
+      "token_id": 4518,
+      "attention": 1,
+      "token": "stock",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 115,
+      "char_end": 120,
+      "word_id": 23,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 29,
+      "token_id": 3006,
+      "attention": 1,
+      "token": "market",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 121,
+      "char_end": 127,
+      "word_id": 24,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 30,
+      "token_id": 2678,
+      "attention": 1,
+      "token": "video",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 128,
+      "char_end": 133,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 31,
+      "token_id": 1006,
+      "attention": 1,
+      "token": "(",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 134,
+      "char_end": 135,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 32,
+      "token_id": 10236,
+      "attention": 1,
+      "token": "wrap",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 135,
+      "char_end": 139,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 33,
+      "token_id": 1011,
+      "attention": 1,
+      "token": "-",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 139,
+      "char_end": 140,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 34,
+      "token_id": 2039,
+      "attention": 1,
+      "token": "up",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 140,
+      "char_end": 142,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 35,
+      "token_id": 1007,
+      "attention": 1,
+      "token": ")",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 142,
+      "char_end": 143,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 36,
+      "token_id": 2012,
+      "attention": 1,
+      "token": "at",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 144,
+      "char_end": 146,
+      "word_id": 27,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 37,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 147,
+      "char_end": 150,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 38,
+      "token_id": 2203,
+      "attention": 1,
+      "token": "end",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 151,
+      "char_end": 154,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 39,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 155,
+      "char_end": 157,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 40,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 158,
+      "char_end": 161,
+      "word_id": 31,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 41,
+      "token_id": 2154,
+      "attention": 1,
+      "token": "day",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 162,
+      "char_end": 165,
+      "word_id": 32,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 42,
+      "token_id": 2651,
+      "attention": 1,
+      "token": "today",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 166,
+      "char_end": 171,
+      "word_id": 33,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 43,
+      "token_id": 1012,
+      "attention": 1,
+      "token": ".",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 171,
+      "char_end": 172,
+      "word_id": 33,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 44,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "And",
+      "char_start": 0,
+      "char_end": 3,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "of",
+      "char_start": 4,
+      "char_end": 6,
+      "token_positions": [
+        2
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "course,",
+      "char_start": 7,
+      "char_end": 14,
+      "token_positions": [
+        3,
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "click",
+      "char_start": 15,
+      "char_end": 20,
+      "token_positions": [
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "in",
+      "char_start": 21,
+      "char_end": 23,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "the",
+      "char_start": 24,
+      "char_end": 27,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "link",
+      "char_start": 28,
+      "char_end": 32,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "of",
+      "char_start": 33,
+      "char_end": 35,
+      "token_positions": [
+        9
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "the",
+      "char_start": 36,
+      "char_end": 39,
+      "token_positions": [
+        10
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "description",
+      "char_start": 40,
+      "char_end": 51,
+      "token_positions": [
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "of",
+      "char_start": 52,
+      "char_end": 54,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "this",
+      "char_start": 55,
+      "char_end": 59,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "video",
+      "char_start": 60,
+      "char_end": 65,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "for",
+      "char_start": 66,
+      "char_end": 69,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "more,",
+      "char_start": 70,
+      "char_end": 75,
+      "token_positions": [
+        16,
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "and",
+      "char_start": 76,
+      "char_end": 79,
+      "token_positions": [
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "we'll",
+      "char_start": 80,
+      "char_end": 85,
+      "token_positions": [
+        19,
+        20,
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "have",
+      "char_start": 86,
+      "char_end": 90,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "more",
+      "char_start": 91,
+      "char_end": 95,
+      "token_positions": [
+        23
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "live",
+      "char_start": 96,
+      "char_end": 100,
+      "token_positions": [
+        24
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "updates",
+      "char_start": 101,
+      "char_end": 108,
+      "token_positions": [
+        25
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "and",
+      "char_start": 109,
+      "char_end": 112,
+      "token_positions": [
+        26
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 22,
+      "text": "a",
+      "char_start": 113,
+      "char_end": 114,
+      "token_positions": [
+        27
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 23,
+      "text": "stock",
+      "char_start": 115,
+      "char_end": 120,
+      "token_positions": [
+        28
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 24,
+      "text": "market",
+      "char_start": 121,
+      "char_end": 127,
+      "token_positions": [
+        29
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 25,
+      "text": "video",
+      "char_start": 128,
+      "char_end": 133,
+      "token_positions": [
+        30
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 26,
+      "text": "(wrap-up)",
+      "char_start": 134,
+      "char_end": 143,
+      "token_positions": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 27,
+      "text": "at",
+      "char_start": 144,
+      "char_end": 146,
+      "token_positions": [
+        36
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 28,
+      "text": "the",
+      "char_start": 147,
+      "char_end": 150,
+      "token_positions": [
+        37
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 29,
+      "text": "end",
+      "char_start": 151,
+      "char_end": 154,
+      "token_positions": [
+        38
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 30,
+      "text": "of",
+      "char_start": 155,
+      "char_end": 157,
+      "token_positions": [
+        39
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 31,
+      "text": "the",
+      "char_start": 158,
+      "char_end": 161,
+      "token_positions": [
+        40
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 32,
+      "text": "day",
+      "char_start": 162,
+      "char_end": 165,
+      "token_positions": [
+        41
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 33,
+      "text": "today.",
+      "char_start": 166,
+      "char_end": 172,
+      "token_positions": [
+        42,
+        43
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 43,
+  "mapped_content_positions": 43,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "20",
+  "sample_key": "sample_20",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "c9aed197e075fa99518e71cbb2ed17406178d9237d40c785409eacf1fa7f1a68",
+  "source_video_sha256": "0c75c37baddf51add457b20ad35e10166ff7baaa520f77bd6b2af2239c217a1c"
+}

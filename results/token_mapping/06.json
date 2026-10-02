@@ -1,0 +1,988 @@
+{
+  "raw_text": "If you're a fan of dancing in that sense, just like to watch people dance, see impressive dance moves then you might want to check out this movie solely for that",
+  "raw_text_sha256": "c1ee582734a5561fba8995ca9c2286b732ea9d80a02501d9b89508bb79c6cc91",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 2065,
+      "attention": 1,
+      "token": "if",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 2,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 2017,
+      "attention": 1,
+      "token": "you",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 3,
+      "char_end": 6,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 1005,
+      "attention": 1,
+      "token": "'",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 6,
+      "char_end": 7,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 2128,
+      "attention": 1,
+      "token": "re",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 7,
+      "char_end": 9,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 1037,
+      "attention": 1,
+      "token": "a",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 10,
+      "char_end": 11,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 5470,
+      "attention": 1,
+      "token": "fan",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 12,
+      "char_end": 15,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 16,
+      "char_end": 18,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 5613,
+      "attention": 1,
+      "token": "dancing",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 19,
+      "char_end": 26,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 1999,
+      "attention": 1,
+      "token": "in",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 27,
+      "char_end": 29,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 2008,
+      "attention": 1,
+      "token": "that",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 30,
+      "char_end": 34,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 3168,
+      "attention": 1,
+      "token": "sense",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 35,
+      "char_end": 40,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 40,
+      "char_end": 41,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 2074,
+      "attention": 1,
+      "token": "just",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 42,
+      "char_end": 46,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 2066,
+      "attention": 1,
+      "token": "like",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 47,
+      "char_end": 51,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 52,
+      "char_end": 54,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 3422,
+      "attention": 1,
+      "token": "watch",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 55,
+      "char_end": 60,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 2111,
+      "attention": 1,
+      "token": "people",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 61,
+      "char_end": 67,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 3153,
+      "attention": 1,
+      "token": "dance",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 68,
+      "char_end": 73,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 73,
+      "char_end": 74,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 2156,
+      "attention": 1,
+      "token": "see",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 75,
+      "char_end": 78,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 8052,
+      "attention": 1,
+      "token": "impressive",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 79,
+      "char_end": 89,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 3153,
+      "attention": 1,
+      "token": "dance",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 90,
+      "char_end": 95,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 5829,
+      "attention": 1,
+      "token": "moves",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 96,
+      "char_end": 101,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 2059,
+      "attention": 1,
+      "token": "then",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 102,
+      "char_end": 106,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 2017,
+      "attention": 1,
+      "token": "you",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 107,
+      "char_end": 110,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 26,
+      "token_id": 2453,
+      "attention": 1,
+      "token": "might",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 111,
+      "char_end": 116,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 27,
+      "token_id": 2215,
+      "attention": 1,
+      "token": "want",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 117,
+      "char_end": 121,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 28,
+      "token_id": 2000,
+      "attention": 1,
+      "token": "to",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 122,
+      "char_end": 124,
+      "word_id": 23,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 29,
+      "token_id": 4638,
+      "attention": 1,
+      "token": "check",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 125,
+      "char_end": 130,
+      "word_id": 24,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 30,
+      "token_id": 2041,
+      "attention": 1,
+      "token": "out",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 131,
+      "char_end": 134,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 31,
+      "token_id": 2023,
+      "attention": 1,
+      "token": "this",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 135,
+      "char_end": 139,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 32,
+      "token_id": 3185,
+      "attention": 1,
+      "token": "movie",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 140,
+      "char_end": 145,
+      "word_id": 27,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 33,
+      "token_id": 9578,
+      "attention": 1,
+      "token": "solely",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 146,
+      "char_end": 152,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 34,
+      "token_id": 2005,
+      "attention": 1,
+      "token": "for",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 153,
+      "char_end": 156,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 35,
+      "token_id": 2008,
+      "attention": 1,
+      "token": "that",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 157,
+      "char_end": 161,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 36,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 37,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 38,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 39,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 40,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 41,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 42,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 43,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "If",
+      "char_start": 0,
+      "char_end": 2,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "you're",
+      "char_start": 3,
+      "char_end": 9,
+      "token_positions": [
+        2,
+        3,
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "a",
+      "char_start": 10,
+      "char_end": 11,
+      "token_positions": [
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "fan",
+      "char_start": 12,
+      "char_end": 15,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "of",
+      "char_start": 16,
+      "char_end": 18,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "dancing",
+      "char_start": 19,
+      "char_end": 26,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "in",
+      "char_start": 27,
+      "char_end": 29,
+      "token_positions": [
+        9
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "that",
+      "char_start": 30,
+      "char_end": 34,
+      "token_positions": [
+        10
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "sense,",
+      "char_start": 35,
+      "char_end": 41,
+      "token_positions": [
+        11,
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "just",
+      "char_start": 42,
+      "char_end": 46,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "like",
+      "char_start": 47,
+      "char_end": 51,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "to",
+      "char_start": 52,
+      "char_end": 54,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "watch",
+      "char_start": 55,
+      "char_end": 60,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "people",
+      "char_start": 61,
+      "char_end": 67,
+      "token_positions": [
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "dance,",
+      "char_start": 68,
+      "char_end": 74,
+      "token_positions": [
+        18,
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "see",
+      "char_start": 75,
+      "char_end": 78,
+      "token_positions": [
+        20
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "impressive",
+      "char_start": 79,
+      "char_end": 89,
+      "token_positions": [
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "dance",
+      "char_start": 90,
+      "char_end": 95,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "moves",
+      "char_start": 96,
+      "char_end": 101,
+      "token_positions": [
+        23
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "then",
+      "char_start": 102,
+      "char_end": 106,
+      "token_positions": [
+        24
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "you",
+      "char_start": 107,
+      "char_end": 110,
+      "token_positions": [
+        25
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "might",
+      "char_start": 111,
+      "char_end": 116,
+      "token_positions": [
+        26
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 22,
+      "text": "want",
+      "char_start": 117,
+      "char_end": 121,
+      "token_positions": [
+        27
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 23,
+      "text": "to",
+      "char_start": 122,
+      "char_end": 124,
+      "token_positions": [
+        28
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 24,
+      "text": "check",
+      "char_start": 125,
+      "char_end": 130,
+      "token_positions": [
+        29
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 25,
+      "text": "out",
+      "char_start": 131,
+      "char_end": 134,
+      "token_positions": [
+        30
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 26,
+      "text": "this",
+      "char_start": 135,
+      "char_end": 139,
+      "token_positions": [
+        31
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 27,
+      "text": "movie",
+      "char_start": 140,
+      "char_end": 145,
+      "token_positions": [
+        32
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 28,
+      "text": "solely",
+      "char_start": 146,
+      "char_end": 152,
+      "token_positions": [
+        33
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 29,
+      "text": "for",
+      "char_start": 153,
+      "char_end": 156,
+      "token_positions": [
+        34
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 30,
+      "text": "that",
+      "char_start": 157,
+      "char_end": 161,
+      "token_positions": [
+        35
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 35,
+  "mapped_content_positions": 35,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "06",
+  "sample_key": "sample_06",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "8c432420054ac28bfcacbbee18d0e8397bc87fa0c7e8cbb11f525d6e366fdd57",
+  "source_video_sha256": "22e0a0e7c0880d3e92e4eb5e98070e5128884dd21eebc8367852570feb1b1d7f"
+}

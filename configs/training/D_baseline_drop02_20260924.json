@@ -1,0 +1,38 @@
+{
+  "seed": 20260924,
+  "batch_size": 64,
+  "eval_batch_size": 256,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.01,
+  "max_epochs": 50,
+  "earliest_stop_epoch": 10,
+  "patience": 8,
+  "class_weights": "inverse_sqrt",
+  "train_bank": "train-block",
+  "model": {
+    "family": "emt",
+    "hidden_dimension": 128,
+    "layers": 2,
+    "heads": 4,
+    "ffn_dimension": 256,
+    "dropout": 0.2,
+    "mpu_share": true,
+    "modality_share": true,
+    "layer_share": true
+  },
+  "loss": {
+    "lambda_regression": 1.0,
+    "smooth_l1_beta": 0.5,
+    "lambda_original_view": 0.5,
+    "lambda_kd": 0.1,
+    "kd_mode": "none",
+    "classification_kd_temperature": 2.0,
+    "lambda_reconstruction": 0.02,
+    "lambda_hlfr": 0.1,
+    "reconstruction_beta": 1.0,
+    "text_reconstruction_mode": "smooth_l1"
+  },
+  "run_id": "D_baseline_drop02_20260924",
+  "method": "D_baseline_drop02",
+  "development_parent": "B4_emt_block_20260924"
+}

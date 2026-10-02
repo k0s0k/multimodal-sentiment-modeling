@@ -1,0 +1,28 @@
+{
+  "source": "user_direct_listening_response",
+  "scope": "clip_content_and_language_only_not_word_boundary_ground_truth",
+  "records": [
+    {
+      "sample_key": "sample_001",
+      "verdict": "transcript_basically_consistent",
+      "original_reply": "转写基本一致"
+    },
+    {
+      "sample_key": "sample_024",
+      "verdict": "transcript_av_mismatch",
+      "original_reply": "明显不一致，画面及声学识别无误，文本转写明显与视频音频不一致"
+    },
+    {
+      "sample_key": "sample_056",
+      "verdict": "transcript_av_mismatch",
+      "original_reply": "明显不一致，识别没问题，转写有误"
+    },
+    {
+      "sample_key": "sample_098",
+      "verdict": "not_english",
+      "original_reply": "不是英语"
+    }
+  ],
+  "official_text_changed": false,
+  "labels_changed": false
+}

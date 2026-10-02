@@ -1,0 +1,328 @@
+{
+  "runs": [
+    {
+      "config": "configs/explanation_training/ablation_no_gate_seed20260924.json",
+      "original_config_sha256": "42bec0f9f8ebfb6e86737dbfa829035351e19a0e2b035d9eaa6ddf38a41724ad",
+      "candidate": "ABL_no_gate",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/ablation_no_recovery_seed20260924.json",
+      "original_config_sha256": "7609694f23f2dc077aa134e8657b42f464949364d24fe8a0f27d3dd167507a35",
+      "candidate": "ABL_no_recovery",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/ablation_no_structure_seed20260924.json",
+      "original_config_sha256": "947acfc53f1651130524f19bb8037840d442670e620021f36328c9daafee284c",
+      "candidate": "ABL_no_structure",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p2_seed20260927.json",
+      "original_config_sha256": "7b2e0ffd348c4ff8b4054daeb3a1c58ececa44ca04e5f63240aa31f85cc2cc83",
+      "candidate": "P2",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p2_seed20260928.json",
+      "original_config_sha256": "0372395d004d4b83813a1a7c840696544b4cb7ea9f709c78f0fd2bd2c37a59c3",
+      "candidate": "P2",
+      "seed": 20260928,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p2_seed20260929.json",
+      "original_config_sha256": "e735ea9f1413f2f12beaefe774557c6f00fab9e75ba3f8da57ff56a7c7a91fb5",
+      "candidate": "P2",
+      "seed": 20260929,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold0_seed20260924.json",
+      "original_config_sha256": "d551cdb8a14b44a59f1690393df1aeaec4604b3d3e4bd02ddddbba2e3934de52",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold0_seed20260924.json",
+      "original_config_sha256": "20a17b736eea86797c3c9d8a6ebda3c4b3e263bdbf71318edb4c26f0b215b16c",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold0_seed20260925.json",
+      "original_config_sha256": "d00005d45dec5dea0e38e2e2c0d3f331ac312253773b3cc7866a1c618bcf92ca",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold0_seed20260925.json",
+      "original_config_sha256": "f0bb5e29ed1abe4e906ae7dd24184cbd765d4ad97cb9b8a62d2c1cb557a18a8e",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold0_seed20260926.json",
+      "original_config_sha256": "e240adddaf7c58bf82144f848d9c0ae3a59bbde11117bc51183f9651ac1aa8c4",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold0_seed20260926.json",
+      "original_config_sha256": "99e76c8dab3dd56708c75731dc4c1c247123cd6457e6fb4578af3510cab5a5cc",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold1_seed20260924.json",
+      "original_config_sha256": "3ad6df155626fff4aeebc2fe4d4842f151b2a8717461101589eba910cd376e2f",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold1_seed20260924.json",
+      "original_config_sha256": "64d3090ab4471afa0e1e36127f652fd82eaef1194f5aef2a4534d40e97986263",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold1_seed20260925.json",
+      "original_config_sha256": "1a7ed2c0026f80213f86b5e7611077814e7d537fa8693ea202104f7d31e66416",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold1_seed20260925.json",
+      "original_config_sha256": "94d2e7216cdac15664478017fbf7c3b134a10837743b6a1d805942ace79d2fc3",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold1_seed20260926.json",
+      "original_config_sha256": "9ed02af32e3c53b86b22e10d957384cd0f0c25b37302681a0b9759e008a9841a",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold1_seed20260926.json",
+      "original_config_sha256": "207f0333b6675bf808afed2c6f8963cd32df55cda5bbf27a0ed7639586ec2bb0",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold2_seed20260924.json",
+      "original_config_sha256": "d8c377f106124e293ce6338374113294f2f93432847217e828f354f8b9e4e089",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold2_seed20260924.json",
+      "original_config_sha256": "c1d5d1fd03f1c37738bc1f7ab774188b08364b01f9c3ce8bf370fd5580545fff",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold2_seed20260925.json",
+      "original_config_sha256": "00451161473d4bc449e776492939b5dfcf1f600f8218dd188c22593bf07f78cd",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold2_seed20260925.json",
+      "original_config_sha256": "4a4bb58d35a9bb1547dd722b480998c613e72b5ec7a7a61acd5cb5323ca56a09",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold2_seed20260926.json",
+      "original_config_sha256": "5f8e47caacfc37891135624ab42b85ccc43162611fa971d51ff4d69a3c549c7e",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold2_seed20260926.json",
+      "original_config_sha256": "be9ee778c6e866bae12de5e6ac14faea9dd6d0d2050d02772899478e73b204f1",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold3_seed20260924.json",
+      "original_config_sha256": "e9b3432221bc01fe90c887456a0d9c37f1fe0d86f6642df33162c7c1c90a8a14",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold3_seed20260924.json",
+      "original_config_sha256": "0c16398c4c7c0d562fe6f5ee7fb1f42e7e614eabca6dea0c99bb89e4192934fd",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold3_seed20260925.json",
+      "original_config_sha256": "38ca95e0f2067ef15ea516766fd2f28c05d2f189ea8881e5490166c6a4cadaa2",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold3_seed20260925.json",
+      "original_config_sha256": "0a0d28fcd5b05d732964651e48ddc02a7165449d0e611794383f2eaefc0a94f4",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold3_seed20260926.json",
+      "original_config_sha256": "683c176a64590a59214fb73bb298d1d3acd6905c862ba181fedf8dc78ca17a3e",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold3_seed20260926.json",
+      "original_config_sha256": "1ba29ad056204308920ee9215e65a6e1114e6f7e71c5931e9b53171acfb64a6d",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold4_seed20260924.json",
+      "original_config_sha256": "d9e80d3d356608fc07d9ce11002b918a59ce3bf0eff1295890db728156042caa",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold4_seed20260924.json",
+      "original_config_sha256": "d6b9c9b2ed4108b069d0025ee4037f7978c2dc6ef578b2bbffcff6b89216d404",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260924,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold4_seed20260925.json",
+      "original_config_sha256": "67f8034753818a07ddfc3e48768f2e752b81d165f934caa2064745073218063a",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold4_seed20260925.json",
+      "original_config_sha256": "e9c02bf48c89cfc75fd76d915a3d5eb692c46f9d39e16e86fa6927516c783150",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260925,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_winner_stage1_fold4_seed20260926.json",
+      "original_config_sha256": "58c2e438f4be18a2e3423ef90fdb445996134e220cbd3d9a75a70d8aaa268db5",
+      "candidate": "OOF_winner_stage1",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/oof_p1_comparator_fold4_seed20260926.json",
+      "original_config_sha256": "f25ffc4acdb0be978cac7cb49a22b8944f5cbd65112568b8e4aa6746b6053e18",
+      "candidate": "OOF_P1_comparator",
+      "seed": 20260926,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p1_seed20260927.json",
+      "original_config_sha256": "08852b70f2b0759aacddb0ec26d4739caf81e2ea2846ee8ae761996c5e7f01e1",
+      "candidate": "P1",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p2_seed20260927.json",
+      "original_config_sha256": "b81875a0fb05d256a15d5f62516408d097a80553269ff8a3d42fff8db9d9b4b3",
+      "candidate": "P2",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p2_seed20260928.json",
+      "original_config_sha256": "1b71069dd012e8874ac39abbdf898a2e639e686fe38ae99e3d7ea0c3a9dbe56b",
+      "candidate": "P2",
+      "seed": 20260928,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p2_seed20260929.json",
+      "original_config_sha256": "aebba645401053c9c49fb37b8d3662f28c3c92f698f961cf02891775ea1ee5e0",
+      "candidate": "P2",
+      "seed": 20260929,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p3_seed20260927.json",
+      "original_config_sha256": "321ed2008da81155a574e7b622a3cef73fb71390eb5ccb67d37c59c14ee81584",
+      "candidate": "P3",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p4_seed20260927.json",
+      "original_config_sha256": "7225d4b604ddd30f03c0d158589f4a1c44919ae7d3cb60b2b9c12e894f69ae28",
+      "candidate": "P4",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p4_seed20260928.json",
+      "original_config_sha256": "4a865ddf064f7b5fd7dc3d6817d1539421d1c03b1540041715150fbaa305e232",
+      "candidate": "P4",
+      "seed": 20260928,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p4_seed20260929.json",
+      "original_config_sha256": "1944379c4d54e83f2f9f142469a6a2e0580a991b2b00cc7f851ec70d90b747d5",
+      "candidate": "P4",
+      "seed": 20260929,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p5_seed20260927.json",
+      "original_config_sha256": "2e151db990ff763a438a135c7fbb0534ad39557fd6769364805fa6409c97bdfc",
+      "candidate": "P5",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    },
+    {
+      "config": "configs/explanation_training/candidate_p6_seed20260927.json",
+      "original_config_sha256": "b7d26606425c280dc41d1076ad36c1473efb2be42db7ff6dee9447957ba94be9",
+      "candidate": "P6",
+      "seed": 20260927,
+      "training_parameters_and_fold_indices_equal": true
+    }
+  ],
+  "count": 46,
+  "fixed_recipes": true
+}

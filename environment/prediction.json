@@ -1,0 +1,12 @@
+{
+  "python": "3.12.11",
+  "platform": "Linux-5.15.0-113-generic-x86_64-with-glibc2.35",
+  "torch": "2.13.0+cu132",
+  "torch_cuda": "13.2",
+  "numpy": "2.3.5",
+  "transformers": "4.57.1",
+  "tokenizers": "0.22.2",
+  "cuda_device": "NVIDIA GeForce RTX 4090",
+  "gpu_bytes": 50866487296,
+  "required_precision": "FP32 inference, TF32 disabled, BERT/fusion batch64"
+}

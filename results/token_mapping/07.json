@@ -1,0 +1,1182 @@
+{
+  "raw_text": "As Linn’s associate editor Michael Baadke reports in our November 28 issue, attendees “enthusiastically discussed the topics of growing the hobby, the future of stamp shows, and dealers and philatelic partnerships, along with ways the leading organizations involved in the stamp hobby can work together to make it succeed and grow",
+  "raw_text_sha256": "194d9af1cc5d8283c9883ebd661197bae5bac8f3689b911a61f6ec294f043f1a",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 2004,
+      "attention": 1,
+      "token": "as",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 2,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 11409,
+      "attention": 1,
+      "token": "lin",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 3,
+      "char_end": 6,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 2078,
+      "attention": 1,
+      "token": "##n",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 6,
+      "char_end": 7,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 1521,
+      "attention": 1,
+      "token": "’",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 7,
+      "char_end": 8,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 1055,
+      "attention": 1,
+      "token": "s",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 8,
+      "char_end": 9,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 5482,
+      "attention": 1,
+      "token": "associate",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 10,
+      "char_end": 19,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 3559,
+      "attention": 1,
+      "token": "editor",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 20,
+      "char_end": 26,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 2745,
+      "attention": 1,
+      "token": "michael",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 27,
+      "char_end": 34,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 8670,
+      "attention": 1,
+      "token": "ba",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 35,
+      "char_end": 37,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 4215,
+      "attention": 1,
+      "token": "##ad",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 37,
+      "char_end": 39,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 3489,
+      "attention": 1,
+      "token": "##ke",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 39,
+      "char_end": 41,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 4311,
+      "attention": 1,
+      "token": "reports",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 42,
+      "char_end": 49,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 1999,
+      "attention": 1,
+      "token": "in",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 50,
+      "char_end": 52,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 2256,
+      "attention": 1,
+      "token": "our",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 53,
+      "char_end": 56,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 2281,
+      "attention": 1,
+      "token": "november",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 57,
+      "char_end": 65,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 2654,
+      "attention": 1,
+      "token": "28",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 66,
+      "char_end": 68,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 3277,
+      "attention": 1,
+      "token": "issue",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 69,
+      "char_end": 74,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 74,
+      "char_end": 75,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 19973,
+      "attention": 1,
+      "token": "attendees",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 76,
+      "char_end": 85,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 1523,
+      "attention": 1,
+      "token": "“",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 86,
+      "char_end": 87,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 24935,
+      "attention": 1,
+      "token": "enthusiastically",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 87,
+      "char_end": 103,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 6936,
+      "attention": 1,
+      "token": "discussed",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 104,
+      "char_end": 113,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 114,
+      "char_end": 117,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 7832,
+      "attention": 1,
+      "token": "topics",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 118,
+      "char_end": 124,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 125,
+      "char_end": 127,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 26,
+      "token_id": 3652,
+      "attention": 1,
+      "token": "growing",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 128,
+      "char_end": 135,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 27,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 136,
+      "char_end": 139,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 28,
+      "token_id": 17792,
+      "attention": 1,
+      "token": "hobby",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 140,
+      "char_end": 145,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 29,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 145,
+      "char_end": 146,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 30,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 147,
+      "char_end": 150,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 31,
+      "token_id": 2925,
+      "attention": 1,
+      "token": "future",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 151,
+      "char_end": 157,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 32,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 158,
+      "char_end": 160,
+      "word_id": 23,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 33,
+      "token_id": 11359,
+      "attention": 1,
+      "token": "stamp",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 161,
+      "char_end": 166,
+      "word_id": 24,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 34,
+      "token_id": 3065,
+      "attention": 1,
+      "token": "shows",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 167,
+      "char_end": 172,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 35,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 172,
+      "char_end": 173,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 36,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 174,
+      "char_end": 177,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 37,
+      "token_id": 16743,
+      "attention": 1,
+      "token": "dealers",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 178,
+      "char_end": 185,
+      "word_id": 27,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 38,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 186,
+      "char_end": 189,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 39,
+      "token_id": 6316,
+      "attention": 1,
+      "token": "phil",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 190,
+      "char_end": 194,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 40,
+      "token_id": 3686,
+      "attention": 1,
+      "token": "##ate",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 194,
+      "char_end": 197,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 41,
+      "token_id": 10415,
+      "attention": 1,
+      "token": "##lic",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 197,
+      "char_end": 200,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 42,
+      "token_id": 13797,
+      "attention": 1,
+      "token": "partnerships",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 201,
+      "char_end": 213,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 43,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 213,
+      "char_end": 214,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 44,
+      "token_id": 2247,
+      "attention": 1,
+      "token": "along",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 215,
+      "char_end": 220,
+      "word_id": 31,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 45,
+      "token_id": 2007,
+      "attention": 1,
+      "token": "with",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 221,
+      "char_end": 225,
+      "word_id": 32,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 46,
+      "token_id": 3971,
+      "attention": 1,
+      "token": "ways",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 226,
+      "char_end": 230,
+      "word_id": 33,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 47,
+      "token_id": 1996,
+      "attention": 1,
+      "token": "the",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 231,
+      "char_end": 234,
+      "word_id": 34,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 48,
+      "token_id": 2877,
+      "attention": 1,
+      "token": "leading",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 235,
+      "char_end": 242,
+      "word_id": 35,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 49,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "As",
+      "char_start": 0,
+      "char_end": 2,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "Linn’s",
+      "char_start": 3,
+      "char_end": 9,
+      "token_positions": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "associate",
+      "char_start": 10,
+      "char_end": 19,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "editor",
+      "char_start": 20,
+      "char_end": 26,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "Michael",
+      "char_start": 27,
+      "char_end": 34,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "Baadke",
+      "char_start": 35,
+      "char_end": 41,
+      "token_positions": [
+        9,
+        10,
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "reports",
+      "char_start": 42,
+      "char_end": 49,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "in",
+      "char_start": 50,
+      "char_end": 52,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "our",
+      "char_start": 53,
+      "char_end": 56,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "November",
+      "char_start": 57,
+      "char_end": 65,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "28",
+      "char_start": 66,
+      "char_end": 68,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "issue,",
+      "char_start": 69,
+      "char_end": 75,
+      "token_positions": [
+        17,
+        18
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "attendees",
+      "char_start": 76,
+      "char_end": 85,
+      "token_positions": [
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "“enthusiastically",
+      "char_start": 86,
+      "char_end": 103,
+      "token_positions": [
+        20,
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "discussed",
+      "char_start": 104,
+      "char_end": 113,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "the",
+      "char_start": 114,
+      "char_end": 117,
+      "token_positions": [
+        23
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "topics",
+      "char_start": 118,
+      "char_end": 124,
+      "token_positions": [
+        24
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "of",
+      "char_start": 125,
+      "char_end": 127,
+      "token_positions": [
+        25
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "growing",
+      "char_start": 128,
+      "char_end": 135,
+      "token_positions": [
+        26
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "the",
+      "char_start": 136,
+      "char_end": 139,
+      "token_positions": [
+        27
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "hobby,",
+      "char_start": 140,
+      "char_end": 146,
+      "token_positions": [
+        28,
+        29
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "the",
+      "char_start": 147,
+      "char_end": 150,
+      "token_positions": [
+        30
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 22,
+      "text": "future",
+      "char_start": 151,
+      "char_end": 157,
+      "token_positions": [
+        31
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 23,
+      "text": "of",
+      "char_start": 158,
+      "char_end": 160,
+      "token_positions": [
+        32
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 24,
+      "text": "stamp",
+      "char_start": 161,
+      "char_end": 166,
+      "token_positions": [
+        33
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 25,
+      "text": "shows,",
+      "char_start": 167,
+      "char_end": 173,
+      "token_positions": [
+        34,
+        35
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 26,
+      "text": "and",
+      "char_start": 174,
+      "char_end": 177,
+      "token_positions": [
+        36
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 27,
+      "text": "dealers",
+      "char_start": 178,
+      "char_end": 185,
+      "token_positions": [
+        37
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 28,
+      "text": "and",
+      "char_start": 186,
+      "char_end": 189,
+      "token_positions": [
+        38
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 29,
+      "text": "philatelic",
+      "char_start": 190,
+      "char_end": 200,
+      "token_positions": [
+        39,
+        40,
+        41
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 30,
+      "text": "partnerships,",
+      "char_start": 201,
+      "char_end": 214,
+      "token_positions": [
+        42,
+        43
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 31,
+      "text": "along",
+      "char_start": 215,
+      "char_end": 220,
+      "token_positions": [
+        44
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 32,
+      "text": "with",
+      "char_start": 221,
+      "char_end": 225,
+      "token_positions": [
+        45
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 33,
+      "text": "ways",
+      "char_start": 226,
+      "char_end": 230,
+      "token_positions": [
+        46
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 34,
+      "text": "the",
+      "char_start": 231,
+      "char_end": 234,
+      "token_positions": [
+        47
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 35,
+      "text": "leading",
+      "char_start": 235,
+      "char_end": 242,
+      "token_positions": [
+        48
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 36,
+      "text": "organizations",
+      "char_start": 243,
+      "char_end": 256,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 37,
+      "text": "involved",
+      "char_start": 257,
+      "char_end": 265,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 38,
+      "text": "in",
+      "char_start": 266,
+      "char_end": 268,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 39,
+      "text": "the",
+      "char_start": 269,
+      "char_end": 272,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 40,
+      "text": "stamp",
+      "char_start": 273,
+      "char_end": 278,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 41,
+      "text": "hobby",
+      "char_start": 279,
+      "char_end": 284,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 42,
+      "text": "can",
+      "char_start": 285,
+      "char_end": 288,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 43,
+      "text": "work",
+      "char_start": 289,
+      "char_end": 293,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 44,
+      "text": "together",
+      "char_start": 294,
+      "char_end": 302,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 45,
+      "text": "to",
+      "char_start": 303,
+      "char_end": 305,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 46,
+      "text": "make",
+      "char_start": 306,
+      "char_end": 310,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 47,
+      "text": "it",
+      "char_start": 311,
+      "char_end": 313,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 48,
+      "text": "succeed",
+      "char_start": 314,
+      "char_end": 321,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 49,
+      "text": "and",
+      "char_start": 322,
+      "char_end": 325,
+      "token_positions": [],
+      "lexical": true
+    },
+    {
+      "word_id": 50,
+      "text": "grow",
+      "char_start": 326,
+      "char_end": 330,
+      "token_positions": [],
+      "lexical": true
+    }
+  ],
+  "content_positions": 48,
+  "mapped_content_positions": 48,
+  "truncated_words": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "07",
+  "sample_key": "sample_07",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "f16e44523bd82862435489552910ef3b801dd5b7501d67b84b83ee1496b0c5a0",
+  "source_video_sha256": "f3b47ceaddf31d472c367259788cb68e93511b14ae117577836f196e22ecedc5"
+}

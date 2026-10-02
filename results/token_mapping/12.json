@@ -1,0 +1,1031 @@
+{
+  "raw_text": "Or worse, an individual previously had good credit, but usually by no fault of their own, or perhaps by fault of their own, they have let their credit sag, and credit scores is very low.",
+  "raw_text_sha256": "6d50ecc8d7010d1298de911bd020a8073a5f1b2f40bd02305b00e5f5b1bfd7d3",
+  "all_three_channels_exact": true,
+  "channels_exact": [
+    true,
+    true,
+    true
+  ],
+  "tokens": [
+    {
+      "position": 0,
+      "token_id": 101,
+      "attention": 1,
+      "token": "[CLS]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 1,
+      "token_id": 2030,
+      "attention": 1,
+      "token": "or",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 0,
+      "char_end": 2,
+      "word_id": 0,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 2,
+      "token_id": 4788,
+      "attention": 1,
+      "token": "worse",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 3,
+      "char_end": 8,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 3,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 8,
+      "char_end": 9,
+      "word_id": 1,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 4,
+      "token_id": 2019,
+      "attention": 1,
+      "token": "an",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 10,
+      "char_end": 12,
+      "word_id": 2,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 5,
+      "token_id": 3265,
+      "attention": 1,
+      "token": "individual",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 13,
+      "char_end": 23,
+      "word_id": 3,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 6,
+      "token_id": 3130,
+      "attention": 1,
+      "token": "previously",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 24,
+      "char_end": 34,
+      "word_id": 4,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 7,
+      "token_id": 2018,
+      "attention": 1,
+      "token": "had",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 35,
+      "char_end": 38,
+      "word_id": 5,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 8,
+      "token_id": 2204,
+      "attention": 1,
+      "token": "good",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 39,
+      "char_end": 43,
+      "word_id": 6,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 9,
+      "token_id": 4923,
+      "attention": 1,
+      "token": "credit",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 44,
+      "char_end": 50,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 10,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 50,
+      "char_end": 51,
+      "word_id": 7,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 11,
+      "token_id": 2021,
+      "attention": 1,
+      "token": "but",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 52,
+      "char_end": 55,
+      "word_id": 8,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 12,
+      "token_id": 2788,
+      "attention": 1,
+      "token": "usually",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 56,
+      "char_end": 63,
+      "word_id": 9,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 13,
+      "token_id": 2011,
+      "attention": 1,
+      "token": "by",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 64,
+      "char_end": 66,
+      "word_id": 10,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 14,
+      "token_id": 2053,
+      "attention": 1,
+      "token": "no",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 67,
+      "char_end": 69,
+      "word_id": 11,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 15,
+      "token_id": 6346,
+      "attention": 1,
+      "token": "fault",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 70,
+      "char_end": 75,
+      "word_id": 12,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 16,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 76,
+      "char_end": 78,
+      "word_id": 13,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 17,
+      "token_id": 2037,
+      "attention": 1,
+      "token": "their",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 79,
+      "char_end": 84,
+      "word_id": 14,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 18,
+      "token_id": 2219,
+      "attention": 1,
+      "token": "own",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 85,
+      "char_end": 88,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 19,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 88,
+      "char_end": 89,
+      "word_id": 15,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 20,
+      "token_id": 2030,
+      "attention": 1,
+      "token": "or",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 90,
+      "char_end": 92,
+      "word_id": 16,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 21,
+      "token_id": 3383,
+      "attention": 1,
+      "token": "perhaps",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 93,
+      "char_end": 100,
+      "word_id": 17,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 22,
+      "token_id": 2011,
+      "attention": 1,
+      "token": "by",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 101,
+      "char_end": 103,
+      "word_id": 18,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 23,
+      "token_id": 6346,
+      "attention": 1,
+      "token": "fault",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 104,
+      "char_end": 109,
+      "word_id": 19,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 24,
+      "token_id": 1997,
+      "attention": 1,
+      "token": "of",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 110,
+      "char_end": 112,
+      "word_id": 20,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 25,
+      "token_id": 2037,
+      "attention": 1,
+      "token": "their",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 113,
+      "char_end": 118,
+      "word_id": 21,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 26,
+      "token_id": 2219,
+      "attention": 1,
+      "token": "own",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 119,
+      "char_end": 122,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 27,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 122,
+      "char_end": 123,
+      "word_id": 22,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 28,
+      "token_id": 2027,
+      "attention": 1,
+      "token": "they",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 124,
+      "char_end": 128,
+      "word_id": 23,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 29,
+      "token_id": 2031,
+      "attention": 1,
+      "token": "have",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 129,
+      "char_end": 133,
+      "word_id": 24,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 30,
+      "token_id": 2292,
+      "attention": 1,
+      "token": "let",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 134,
+      "char_end": 137,
+      "word_id": 25,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 31,
+      "token_id": 2037,
+      "attention": 1,
+      "token": "their",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 138,
+      "char_end": 143,
+      "word_id": 26,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 32,
+      "token_id": 4923,
+      "attention": 1,
+      "token": "credit",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 144,
+      "char_end": 150,
+      "word_id": 27,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 33,
+      "token_id": 7842,
+      "attention": 1,
+      "token": "sa",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 151,
+      "char_end": 153,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 34,
+      "token_id": 2290,
+      "attention": 1,
+      "token": "##g",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 153,
+      "char_end": 154,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 35,
+      "token_id": 1010,
+      "attention": 1,
+      "token": ",",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 154,
+      "char_end": 155,
+      "word_id": 28,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 36,
+      "token_id": 1998,
+      "attention": 1,
+      "token": "and",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 156,
+      "char_end": 159,
+      "word_id": 29,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 37,
+      "token_id": 4923,
+      "attention": 1,
+      "token": "credit",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 160,
+      "char_end": 166,
+      "word_id": 30,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 38,
+      "token_id": 7644,
+      "attention": 1,
+      "token": "scores",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 167,
+      "char_end": 173,
+      "word_id": 31,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 39,
+      "token_id": 2003,
+      "attention": 1,
+      "token": "is",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 174,
+      "char_end": 176,
+      "word_id": 32,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 40,
+      "token_id": 2200,
+      "attention": 1,
+      "token": "very",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 177,
+      "char_end": 181,
+      "word_id": 33,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 41,
+      "token_id": 2659,
+      "attention": 1,
+      "token": "low",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 182,
+      "char_end": 185,
+      "word_id": 34,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 42,
+      "token_id": 1012,
+      "attention": 1,
+      "token": ".",
+      "observed_content": true,
+      "audio_observed": true,
+      "vision_observed": true,
+      "char_start": 185,
+      "char_end": 186,
+      "word_id": 34,
+      "mapping_level": "raw_text_exact"
+    },
+    {
+      "position": 43,
+      "token_id": 102,
+      "attention": 1,
+      "token": "[SEP]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 44,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 45,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 46,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 47,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 48,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    },
+    {
+      "position": 49,
+      "token_id": 0,
+      "attention": 0,
+      "token": "[PAD]",
+      "observed_content": false,
+      "audio_observed": false,
+      "vision_observed": false,
+      "char_start": null,
+      "char_end": null,
+      "word_id": null,
+      "mapping_level": "unknown"
+    }
+  ],
+  "words": [
+    {
+      "word_id": 0,
+      "text": "Or",
+      "char_start": 0,
+      "char_end": 2,
+      "token_positions": [
+        1
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 1,
+      "text": "worse,",
+      "char_start": 3,
+      "char_end": 9,
+      "token_positions": [
+        2,
+        3
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 2,
+      "text": "an",
+      "char_start": 10,
+      "char_end": 12,
+      "token_positions": [
+        4
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 3,
+      "text": "individual",
+      "char_start": 13,
+      "char_end": 23,
+      "token_positions": [
+        5
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 4,
+      "text": "previously",
+      "char_start": 24,
+      "char_end": 34,
+      "token_positions": [
+        6
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 5,
+      "text": "had",
+      "char_start": 35,
+      "char_end": 38,
+      "token_positions": [
+        7
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 6,
+      "text": "good",
+      "char_start": 39,
+      "char_end": 43,
+      "token_positions": [
+        8
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 7,
+      "text": "credit,",
+      "char_start": 44,
+      "char_end": 51,
+      "token_positions": [
+        9,
+        10
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 8,
+      "text": "but",
+      "char_start": 52,
+      "char_end": 55,
+      "token_positions": [
+        11
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 9,
+      "text": "usually",
+      "char_start": 56,
+      "char_end": 63,
+      "token_positions": [
+        12
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 10,
+      "text": "by",
+      "char_start": 64,
+      "char_end": 66,
+      "token_positions": [
+        13
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 11,
+      "text": "no",
+      "char_start": 67,
+      "char_end": 69,
+      "token_positions": [
+        14
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 12,
+      "text": "fault",
+      "char_start": 70,
+      "char_end": 75,
+      "token_positions": [
+        15
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 13,
+      "text": "of",
+      "char_start": 76,
+      "char_end": 78,
+      "token_positions": [
+        16
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 14,
+      "text": "their",
+      "char_start": 79,
+      "char_end": 84,
+      "token_positions": [
+        17
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 15,
+      "text": "own,",
+      "char_start": 85,
+      "char_end": 89,
+      "token_positions": [
+        18,
+        19
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 16,
+      "text": "or",
+      "char_start": 90,
+      "char_end": 92,
+      "token_positions": [
+        20
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 17,
+      "text": "perhaps",
+      "char_start": 93,
+      "char_end": 100,
+      "token_positions": [
+        21
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 18,
+      "text": "by",
+      "char_start": 101,
+      "char_end": 103,
+      "token_positions": [
+        22
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 19,
+      "text": "fault",
+      "char_start": 104,
+      "char_end": 109,
+      "token_positions": [
+        23
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 20,
+      "text": "of",
+      "char_start": 110,
+      "char_end": 112,
+      "token_positions": [
+        24
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 21,
+      "text": "their",
+      "char_start": 113,
+      "char_end": 118,
+      "token_positions": [
+        25
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 22,
+      "text": "own,",
+      "char_start": 119,
+      "char_end": 123,
+      "token_positions": [
+        26,
+        27
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 23,
+      "text": "they",
+      "char_start": 124,
+      "char_end": 128,
+      "token_positions": [
+        28
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 24,
+      "text": "have",
+      "char_start": 129,
+      "char_end": 133,
+      "token_positions": [
+        29
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 25,
+      "text": "let",
+      "char_start": 134,
+      "char_end": 137,
+      "token_positions": [
+        30
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 26,
+      "text": "their",
+      "char_start": 138,
+      "char_end": 143,
+      "token_positions": [
+        31
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 27,
+      "text": "credit",
+      "char_start": 144,
+      "char_end": 150,
+      "token_positions": [
+        32
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 28,
+      "text": "sag,",
+      "char_start": 151,
+      "char_end": 155,
+      "token_positions": [
+        33,
+        34,
+        35
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 29,
+      "text": "and",
+      "char_start": 156,
+      "char_end": 159,
+      "token_positions": [
+        36
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 30,
+      "text": "credit",
+      "char_start": 160,
+      "char_end": 166,
+      "token_positions": [
+        37
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 31,
+      "text": "scores",
+      "char_start": 167,
+      "char_end": 173,
+      "token_positions": [
+        38
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 32,
+      "text": "is",
+      "char_start": 174,
+      "char_end": 176,
+      "token_positions": [
+        39
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 33,
+      "text": "very",
+      "char_start": 177,
+      "char_end": 181,
+      "token_positions": [
+        40
+      ],
+      "lexical": true
+    },
+    {
+      "word_id": 34,
+      "text": "low.",
+      "char_start": 182,
+      "char_end": 186,
+      "token_positions": [
+        41,
+        42
+      ],
+      "lexical": true
+    }
+  ],
+  "content_positions": 42,
+  "mapped_content_positions": 42,
+  "truncated_words": [],
+  "timing_status": "not_run_unknown",
+  "audio_video_feature_time_mapping": "no_official_timestamps",
+  "sample_id": "12",
+  "sample_key": "sample_12",
+  "feature_version": "aligned_50",
+  "source_pkl_sha256": "5d003f471f20ac8d51553c3b217fc594075067a4c806fc07139839d681a97032",
+  "source_video_sha256": "5d4da7ef7e6a4a344a2b9657fadfa2207c3565a9f7c1fb806e629c95b453aff3"
+}
